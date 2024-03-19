@@ -1,5 +1,5 @@
 # Loja-Mercado
-# Aprendi uzar o metodo 'with open', peguei um exemplo deste site (tem bons exemplos e esta bem explicado):
+# Aprendi usar o metodo 'with open', peguei um exemplo deste site (tem bons exemplos e esta bem explicado):
 # https://www.freecodecamp.org/news/with-open-in-python-with-statement-syntax-example/
 # Uzei este exemplo para fazer o programa:
                   with open("hello.txt", "w") as my_file:
