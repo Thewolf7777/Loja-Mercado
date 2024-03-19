@@ -11,8 +11,8 @@ with open("hello.txt", "w") as my_file:
 with open("hello.txt") as my_file:
     print(my_file.read())
 
-  # Output: 
-  # Hello world 
-  # I hope you're doing well today
-  # This is a text file
-  # Have a nice time
+   Output: 
+   Hello world 
+   I hope you're doing well today
+   This is a text file
+   Have a nice time
