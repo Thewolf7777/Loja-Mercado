@@ -16,6 +16,9 @@
    
      #Output: 
    Hello world 
+   
    I hope you're doing well today
+   
    This is a text file
+   
    Have a nice time
